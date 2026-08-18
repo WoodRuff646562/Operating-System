@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-
 echo "write a Number?"
 read NUM
 if [ $NUM -eq 10 ]; then
