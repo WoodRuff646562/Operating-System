@@ -1,4 +1,3 @@
-
 #!/usr/bin/bash
 echo What is your first name?
 read FIRST_NAME
